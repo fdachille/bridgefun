@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Bridges")]
+[assembly: AssemblyTitle("Bridge Fun")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Viatronix")]
-[assembly: AssemblyProduct("Bridges")]
-[assembly: AssemblyCopyright("Copyright © Viatronix 2005")]
+[assembly: AssemblyCompany("FDSA")]
+[assembly: AssemblyProduct("Bridge Fun")]
+[assembly: AssemblyCopyright("Copyright © Frank Dachille 2005")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
