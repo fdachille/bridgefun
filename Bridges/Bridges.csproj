@@ -124,36 +124,26 @@
     </BootstrapperPackage>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="images\arch_over.jpg">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="images\arch_under.jpg">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="images\cables_under.jpg">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="images\double_truss.jpg">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="images\long_truss.jpg">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="images\medium_truss.jpg">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="images\stone_bridge.jpg">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="images\suspension.jpg">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="images\truss_under.jpg">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="images\weird_arch.jpg">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
+    <None Include="images\arch_over.jpg">
+    </None>
+    <None Include="images\arch_under.jpg">
+    </None>
+    <None Include="images\cables_under.jpg">
+    </None>
+    <None Include="images\double_truss.jpg">
+    </None>
+    <None Include="images\long_truss.jpg">
+    </None>
+    <None Include="images\medium_truss.jpg">
+    </None>
+    <None Include="images\stone_bridge.jpg">
+    </None>
+    <None Include="images\suspension.jpg">
+    </None>
+    <None Include="images\truss_under.jpg">
+    </None>
+    <None Include="images\weird_arch.jpg">
+    </None>
     <Content Include="levels\01 Short\background.jpg">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
