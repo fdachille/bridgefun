@@ -68,7 +68,7 @@ namespace Bridges
       foreach ( string levelFolder in levelFolders )
       {
         // read XML
-        string levelFile = System.IO.Path.Combine( levelFolder, "level.xml.jpg" );
+        string levelFile = System.IO.Path.Combine( levelFolder, "level.xml" );
         TextReader levelReader = new StreamReader( new FileStream( levelFile, FileMode.Open ) );
         XmlSerializer levelXml = new XmlSerializer( typeof( Level ) );
         Level level = ( Level ) levelXml.Deserialize( levelReader );
