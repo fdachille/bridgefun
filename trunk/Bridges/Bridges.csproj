@@ -136,8 +136,9 @@
     </None>
     <None Include="images\medium_truss.jpg">
     </None>
-    <None Include="images\stone_bridge.jpg">
-    </None>
+    <Content Include="images\stone_bridge.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
     <None Include="images\suspension.jpg">
     </None>
     <None Include="images\truss_under.jpg">
