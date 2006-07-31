@@ -244,7 +244,7 @@ namespace Bridges
           this.Controls.Add( this.m_statusStrip );
           this.Controls.Add( this.toolStrip1 );
           this.Name = "MainForm";
-          this.Text = "Bridges";
+          this.Text = "Bridge Fun";
           this.MouseClick += new System.Windows.Forms.MouseEventHandler( this.MainForm_MouseClick );
           this.MouseMove += new System.Windows.Forms.MouseEventHandler( this.MainForm_MouseMove );
           this.toolStrip1.ResumeLayout( false );
