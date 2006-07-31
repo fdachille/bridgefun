@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Level xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <AnchorPoints>
+    <PointF>
+      <X>20</X>
+      <Y>200</Y>
+    </PointF>
+    <PointF>
+      <X>500</X>
+      <Y>200</Y>
+    </PointF>
+    <PointF>
+      <X>20</X>
+      <Y>360</Y>
+    </PointF>
+    <PointF>
+      <X>500</X>
+      <Y>360</Y>
+    </PointF>
+  </AnchorPoints>
+  <Budget>23000</Budget>
+  <Name>06 Arch Under</Name>
+</Level>
