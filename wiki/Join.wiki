@@ -1,0 +1,10 @@
+#summary How to improve Bridgefun
+
+= How you can help =
+
+  # Download and edit the code
+  # Email me to join this project (append _@gmail.com_ to my username)
+  # Provide feedback in the issues section
+  # Visit my codeproject [http://www.codeproject.com/csharp/bridges.asp page] and comment there
+
+
