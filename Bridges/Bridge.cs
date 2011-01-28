@@ -8,27 +8,16 @@ namespace Bridges
   public class Bridge : ICloneable
   {
     #region fields
-
     private int m_numAnchorPoints = 0;
-
     private List<PointF> m_pins = new List<PointF>();
-
     private List<Spring> m_springs = new List<Spring>();
-
     private PointF [] m_pinForces = new PointF[0];
-
     private int m_numBrokenLinks = 0;
-
     private Spring m_pendingSpring = null;
-
     private PointF m_cursorPos = new PointF( 0f, 0f );
-
     private bool m_pinMode = false;
-
     private bool m_snapMode = true;
-
     private Spring m_currentSpringType = new LightSteel();
-
     #endregion
 
     #region properties
